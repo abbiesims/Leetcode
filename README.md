@@ -1,10 +1,10 @@
 # Leetcode solutions using Python3
 
-![LeetCode](https://img.shields.io/badge/solved-63-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-64-green.svg)
 
-Last updated:  2021-04-03 13:10:14
+Last updated:  2021-04-03 15:21:32
 
-I have solved a total of **63** out of **1642** problems using Python3. Any comments are welcome and appreciated.
+I have solved a total of **64** out of **1642** problems using Python3. Any comments are welcome and appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -58,6 +58,7 @@ I have solved a total of **63** out of **1642** problems using Python3. Any comm
 |1552|[build-an-array-with-stack-operations](https://leetcode.com/problems/build-an-array-with-stack-operations)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1552-build-an-array-with-stack-operations/build-an-array-with-stack-operations.py)||Easy|
 |1584|[average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1584-average-salary-excluding-the-minimum-and-maximum-salary/average-salary-excluding-the-minimum-and-maximum-salary.py)||Easy|
 |1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1603-running-sum-of-1d-array/running-sum-of-1d-array.py)|[:memo:](https://leetcode.com/articles/running-sum-of-1d-array/)|Easy|
+|1630|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.py)||Easy|
 |1635|[number-of-good-pairs](https://leetcode.com/problems/number-of-good-pairs)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1635-number-of-good-pairs/number-of-good-pairs.py)||Easy|
 |1646|[kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1646-kth-missing-positive-number/kth-missing-positive-number.py)|[:memo:](https://leetcode.com/articles/kth-missing-positive-number/)|Easy|
 |1660|[thousand-separator](https://leetcode.com/problems/thousand-separator)|[Python3](https://github.com/abbiesims/Leetcode/blob/main/solutions/1660-thousand-separator/thousand-separator.py)||Easy|
